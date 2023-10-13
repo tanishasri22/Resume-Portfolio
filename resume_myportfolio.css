@@ -1,0 +1,32 @@
+.portofolios-display{
+	height: 700px;
+	width:auto;
+	display: flex;
+	flex-direction: row; 
+	flex-wrap: wrap;
+	align-content: space-between;
+	justify-content: space-evenly;
+	/*border: 4px solid black;*/
+	/*margin: 50px; */
+	padding: 100px;
+	box-sizing: content-box;
+
+}
+
+.project{
+	height: 200px;
+	width: 200px;
+
+margin: 80px;
+margin-top: -40px;
+/*margin-bottom: 100px;
+margin-right: 60px;
+/*margin-left: -2px;*/*/
+}
+.project img{
+	height: 290px;
+	width: 290px;
+	margin-left: -40px;
+	margin-top: -30px;
+	margin-bottom: -200px;
+}
